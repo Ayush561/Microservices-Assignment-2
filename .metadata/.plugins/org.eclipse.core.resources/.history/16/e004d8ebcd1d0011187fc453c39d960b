@@ -1,0 +1,5 @@
+package com.bookstore.productservice.model;
+
+public class Product {
+
+}

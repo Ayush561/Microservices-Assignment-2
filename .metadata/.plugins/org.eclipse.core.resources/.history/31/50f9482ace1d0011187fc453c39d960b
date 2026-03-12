@@ -1,0 +1,5 @@
+package com.bookstore.productservice.controller;
+
+public class ProductController {
+
+}

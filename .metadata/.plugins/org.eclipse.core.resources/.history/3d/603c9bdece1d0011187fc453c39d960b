@@ -1,0 +1,5 @@
+package com.bookstore.orderservice.model;
+
+public class Order {
+
+}

@@ -1,0 +1,5 @@
+package com.bookstore.productservice.repository;
+
+public class ProductRepository {
+
+}
